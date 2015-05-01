@@ -1,0 +1,23 @@
+{
+  "name": "gm2-circle",
+  "version": "0.0.1",
+  "description": "2D Geometry - Circle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeglebug/gm2-circle.git"
+  },
+  "author": "Stuart Lee <updownleftright@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beeglebug/gm2-circle/issues"
+  },
+  "homepage": "https://github.com/beeglebug/gm2-circle#readme",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
